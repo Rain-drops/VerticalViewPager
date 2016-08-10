@@ -1,2 +1,2 @@
 # VerticalViewPager
-![default](https://github.com/Rain-drops/VerticalViewPager/blob/master/)
+![default](https://github.com/Rain-drops/VerticalViewPager/blob/master/gif/default.gif)
